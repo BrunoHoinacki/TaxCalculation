@@ -1,4 +1,4 @@
-# CalcArea
+# TaxCalculation
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/BrunoHoinacki/PriceProduct/blob/main/LICENSE) 
 
 ## Sobre o projeto
